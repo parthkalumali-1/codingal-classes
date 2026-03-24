@@ -1,3 +1,4 @@
 
 1. git add .
 2. git commit -m "relevant message"
+3. git push
